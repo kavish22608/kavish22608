@@ -1,63 +1,52 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Kawishka Dilshan – GitHub Profile</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      background: #f9f9f9;
-      color: #333;
-      padding: 50px;
-      text-align: center;
-    }
-    h1 {
-      color: #2c3e50;
-    }
-    p {
-      font-size: 18px;
-      line-height: 1.6;
-    }
-    strong {
-      color: #2980b9;
-    }
-  </style>
-</head>
-<body>
+<h1 align="center">👋 Hi there, I'm Kawishka Bandara</h1>
 
-  <h1>👋 Hi, I’m <strong>@kavish22608</strong></h1>
+<p align="center">
+🎓 Applied Data Science Undergraduate at<br>
+<strong>General Sir John Kotelawala Defence University</strong>
+</p>
 
-  <p>🎓 I’m <strong>Kawishka Dilshan</strong>, a Data Science undergraduate passionate about solving real-world problems with AI and analytics.</p>
+---
 
-  <p>🔬 I’m currently working on projects related to:
-    <br><strong>Cricket Analytics</strong>, <strong>AI Agents</strong>, and <strong>Data Visualization</strong>.
-  </p>
+### 📊 About Me
 
-  <p>📊 Tools I use:
-    <br>Python, Pandas, Matplotlib, Scikit-learn, Hugging Face, Gradio, Streamlit
-  </p>
+- 🎯 I’m passionate about **cricket analytics** and **performance analysis**
+- 📈 Exploring how data can improve decision-making in sports and beyond
+- 📚 Always learning and building cool projects in **Python**, **R**, and **SQL**
 
-  <p>🌱 I’m currently learning:
-    <br>LangChain, LLM Agents, Deep Learning, and Flask/Django for AI-powered web apps.
-  </p>
+---
 
-  <p>💡 I’m looking to collaborate on:
-    <br><strong>AI-driven sports analytics</strong> and <strong>open-source data science projects</strong>.
-  </p>
+### 🛠️ Technical Skills
 
-  <p>📫 How to reach me:
-    <br>Email: <strong>kavishka.d@example.com</strong>
-    <br>LinkedIn: <a href="https://www.linkedin.com/in/kavishka-dilshan/">linkedin.com/in/kavishka-dilshan</a>
-  </p>
+- 🔹 Languages: Python, R, SQL  
+- 🔹 Tools: Power BI, Report Builder, Pandas, Matplotlib, scikit-learn  
+- 🔹 Interests: Sports Data Science, Visualization, AI Agents, Analytics Apps
 
-  <p>⚡ Fun fact: I believe cricket and code have one thing in common — every line counts 😉</p>
+---
 
-</body>
-</html>
+### 🚀 Projects
 
+Coming soon:  
+- 🏏 **Cricket Performance Advisor** – AI-powered strategy generator  
+- 📊 **Player Stats Dashboard** – Interactive insights with Power BI
 
-<!---
-kavish22608/kavish22608 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📌 Check back for more!
+
+---
+
+### 📬 Connect with Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/kawishka-bandara-304b722b7)
+- 📧 Email: dilshank530@gmail.com
+
+---
+
+### ⚡ Fun Fact
+
+> *"In cricket, luck is just probability we haven’t calculated yet."*
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kavish22608&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
